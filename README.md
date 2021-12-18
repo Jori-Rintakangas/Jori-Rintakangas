@@ -1,5 +1,6 @@
 # Hi there 👋
 
+I am an engineering student with studies focusing on embedded systems and software engineering. You can find my personal and school programming projects here on GitHub.
 ## Technologies and Tools
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=6990ec)
@@ -20,7 +21,7 @@
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jori-Rintakangas&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jori-Rintakangas&theme" />
 
 
 
