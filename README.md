@@ -21,7 +21,7 @@ I am an engineering student with studies focusing on embedded systems and softwa
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jori-Rintakangas&theme" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jori-Rintakangas&langs_count=3&theme=vue-dark" />
 
 
 
